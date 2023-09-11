@@ -4,3 +4,5 @@
 ![Alt text](<3 Merge conflict.png>)
 ![Alt text](<4 Commit utils.png>)
 ![Alt text](<5 Commit utils_test.png>)
+![Alt text](<6 Rebase.png>)
+![Alt text](<7 Rebase cont.png>)
