@@ -9,7 +9,8 @@ Commiting 'utils.py'
 ![Alt text](<4 Commit utils.png>)
 Commiting 'utils_tests.py'
 ![Alt text](<5 Commit utils_test.png>)
-Rebase 'rebase' branch onto 'develop' branch - command
+Rebase 'rebase' branch onto 'develop' branch
 ![Alt text](<6 Rebase.png>)
-Rebase 'rebase' branch onto 'develop' branch - proof
-![Alt text](<7 Rebase cont.png>)
+![Alt text](<7 Rebase.png>)
+![Alt text](<8 Rebase.png>)
+![Alt text](<9 Rebase.png>)
